@@ -1,0 +1,8 @@
+{
+  "name": "Selah — Verse-by-Verse Bible Feed",
+  "description": "A vertical, frame-by-frame scripture reader where every Bible verse lives in its own contemplative frame with word-level highlighting and margin commentary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
